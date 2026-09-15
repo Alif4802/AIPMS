@@ -2,12 +2,12 @@
 
 **Original file:** ACR ফর্ম (গ্রেড ১২-১৬).pdf  
 **Original relative path:** 01_AUTHORITATIVE_SOURCES/ACR ফর্ম (গ্রেড ১২-১৬).pdf  
-**Source category:** AUTHORITATIVE_SOURCE (Precedence Rank 2)  
+**Source category:** AUTHORITATIVE_SOURCE (Scope: Official Grade 12–16 Staff Appraisal Instrument)  
 **Extraction method:** Visual analysis and transcription from 150 DPI page renders (scratch/grade_12_16_pages/page_1.png through page_8.png)  
 **Extraction date:** 2026-09-15  
 **Number of pages/sheets/slides:** 8 pages  
 **Extraction completeness:** 100% complete (All 5 parts, 20 criteria, 5-point scale, 5 performance bands, bio-data, health report, pen picture, recommendations, multi-tier approvals, and appended instructions)  
-**Notes:** Official DESCO Annual Confidential Report (ACR) Form for Pay Grades 12 to 16 (Staff/Employees). Approved at the 377th Board Meeting on 07 April 2019 (Agenda 377.07.2019).
+**Notes:** Official DESCO Annual Confidential Report (ACR) Form for Pay Grades 12 to 16 (Staff/Employees). Approved at the 377th Board Meeting on 07 April 2019 (Agenda 377.07.2019). Bengali transcription represents authoritative source text; English translations in table are non-authoritative working translations.
 
 ---
 
@@ -100,8 +100,6 @@
 ডেসকো পরিচালনা পর্ষদের ৩৭৭.০৭.২০১৯ তম সভার কার্যবিবরণী তারিখঃ ০৭ এপ্রিল ২০১৯ খ্রিঃ
 ```
 
-*(Note: Unlike the Grade 1–11 form which has 12 items including Cadre Name, the Grade 12–16 form has 11 items and omits Cadre Name, reflecting non-cadre staff status.)*
-
 ---
 
 ## Page 4 — Part 3: Performance Assessment Criteria (মূল্যায়নের বিষয় — ২০টি মেট্রিক)
@@ -114,7 +112,7 @@
 
 ### Assessment Table: 20 Official Criteria & 5-Point Scale
 
-| ক্র. | মূল্যায়নের বিষয় (Assessment Criteria) | English Translation / Description | প্রাপ্ত মান ৫ (Outstanding) | প্রাপ্ত মান ৪ (Very Good) | প্রাপ্ত মান ৩ (Good) | প্রাপ্ত মান ২ (Average) | প্রাপ্ত মান ১ (Below Average) |
+| ক্র. | মূল্যায়নের বিষয় (Assessment Criteria) | Non-Authoritative Working Translation | প্রাপ্ত মান ৫ (Outstanding) | প্রাপ্ত মান ৪ (Very Good) | প্রাপ্ত মান ৩ (Good) | প্রাপ্ত মান ২ (Average) | প্রাপ্ত মান ১ (Below Average) |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: | :---: |
 | ১ | শৃঙ্খলা বোধ | Discipline / Sense of Discipline | | | | | |
 | ২ | বিচার ও মাত্রাজ্ঞান | Judgment and Sense of Proportion | | | | | |
@@ -137,8 +135,6 @@
 | ১৯ | প্রকাশ ক্ষমতা (বাচনিক) | Power of Expression (Oral/Verbal) | | | | | |
 | ২০ | কর্তব্যনিষ্ঠা | Devotion to Duty | | | | | |
 | | **মোট প্রাপ্ত নম্বর** | **Total Marks Obtained (Max: 100)** | | | | | |
-
-*(Key Structural Differences from Grade 1–11: Grade 12–16 excludes 5 supervisory/managerial criteria present in Grade 1–11: Supervisory ability, Decision making, Decision implementation, Subordinate training, and ACR writing promptness. It uses a 1–5 scoring scale across 20 metrics, achieving the identical 100-point total: 20 × 5 = 100).*
 
 ### Performance Evaluation Bands (নম্বর বিভাজন ও মূল্যায়ন শ্রেণী)
 

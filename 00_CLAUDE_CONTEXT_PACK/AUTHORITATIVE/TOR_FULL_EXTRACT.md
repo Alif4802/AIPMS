@@ -2,14 +2,18 @@
 
 **Original file:** 2026-08-18 DESCO_AIPMS_TOR_Revised_2_Final (Autosaved).docx  
 **Original relative path:** 01_AUTHORITATIVE_SOURCES/2026-08-18 DESCO_AIPMS_TOR_Revised_2_Final (Autosaved).docx  
-**Source category:** AUTHORITATIVE_SOURCE (Precedence Rank 1)  
+**Source category:** AUTHORITATIVE_SOURCE (Scope: Contractual Requirements, Deliverables & Specifications)  
 **Extraction method:** Direct full-fidelity extraction from DOCX preserving exact section numbers and tables  
 **Extraction date:** 2026-09-15  
 **Number of pages/sheets/slides:** 304 paragraphs, 4 complex tables  
 **Extraction completeness:** Complete (All Sections 1 to 10.1 and Acronyms preserved verbatim)  
-**Notes:** Contractual Terms of Reference governing the DESCO AIPMS project. Highest priority source.
+**Notes:** Contractual Terms of Reference governing the DESCO AIPMS project. Authoritative for contractual scope, required deliverables, project functionality, contractual technology/security obligations, milestones, and acceptance requirements.
 
 ---
+
+# AI-Based Performance Management System (AIPMS)
+## Dhaka Electricity Supply PLC (DESCO)
+### Terms of Reference (TOR) — Revised Version (10 August 2026 / 18 August 2026)
 
 # List of Acronyms
 

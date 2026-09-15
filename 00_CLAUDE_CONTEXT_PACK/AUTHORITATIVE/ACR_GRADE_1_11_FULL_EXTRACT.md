@@ -2,12 +2,12 @@
 
 **Original file:** ACR Format.pdf  
 **Original relative path:** 01_AUTHORITATIVE_SOURCES/ACR Format.pdf  
-**Source category:** AUTHORITATIVE_SOURCE (Precedence Rank 2)  
+**Source category:** AUTHORITATIVE_SOURCE (Scope: Official Grade 1–11 Officer Appraisal Instrument)  
 **Extraction method:** Visual analysis and transcription from 150 DPI page renders (scratch/grade_1_11_pages/page_1.png through page_8.png)  
 **Extraction date:** 2026-09-15  
 **Number of pages/sheets/slides:** 8 pages  
 **Extraction completeness:** 100% complete (All 5 parts, 25 criteria, 4-point scale, 5 performance bands, bio-data, health report, pen picture, recommendations, multi-tier approvals, and appended instructions)  
-**Notes:** Official DESCO Annual Confidential Report (ACR) Form for Pay Grades 1 to 11 (Officers). Approved at the 377th Board Meeting on 07 April 2019 (Agenda 377.07.2019).
+**Notes:** Official DESCO Annual Confidential Report (ACR) Form for Pay Grades 1 to 11 (Officers). Approved at the 377th Board Meeting on 07 April 2019 (Agenda 377.07.2019). Bengali transcription represents authoritative source text; English translations in table are non-authoritative working translations.
 
 ---
 
@@ -113,7 +113,7 @@
 
 ### Assessment Table: 25 Official Criteria & 4-Point Scale
 
-| ক্র. | মূল্যায়নের বিষয় (Assessment Criteria) | English Translation / Description | প্রাপ্ত মান ৪ (Outstanding) | প্রাপ্ত মান ৩ (Good) | প্রাপ্ত মান ২ (Average) | প্রাপ্ত মান ১ (Below Average) |
+| ক্র. | মূল্যায়নের বিষয় (Assessment Criteria) | Non-Authoritative Working Translation | প্রাপ্ত মান ৪ (Outstanding) | প্রাপ্ত মান ৩ (Good) | প্রাপ্ত মান ২ (Average) | প্রাপ্ত মান ১ (Below Average) |
 | :---: | :--- | :--- | :---: | :---: | :---: | :---: |
 | ১ | শৃঙ্খলা বোধ | Discipline / Sense of Discipline | | | | |
 | ২ | বিচার ও মাত্রাজ্ঞান | Judgment and Sense of Proportion | | | | |
