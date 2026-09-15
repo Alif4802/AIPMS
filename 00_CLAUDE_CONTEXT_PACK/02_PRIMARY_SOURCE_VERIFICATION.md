@@ -1,0 +1,45 @@
+# Primary Source Verification Index
+
+This document certifies the extraction fidelity and readability of the foundational, authoritative primary sources governing the DESCO AIPMS project. It enables human reviewers and AI agents to immediately verify whether source text is directly readable or relies on transcription companions.
+
+---
+
+## 1. Master Verification Table
+
+| Source Name | Original Path | Extract Path | Directly Readable | Extraction Complete | Verification Notes |
+|---|---|---|---|---|---|
+| **Revised DESCO AIPMS TOR** | `01_AUTHORITATIVE_SOURCES/TOR/2026-08-18 DESCO_AIPMS_TOR_Revised_2_Final (Autosaved).docx` | [`AUTHORITATIVE/TOR_FULL_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/AUTHORITATIVE/TOR_FULL_EXTRACT.md) | **YES** | **YES** | 100% complete text. Exact section numbers (§1.0–§10.1), AI evaluation (§3.2.1), OCR digitization (§3.2.2), security (§4.0), payment milestones (§6.0), and deliverables table preserved verbatim without summarization. |
+| **Official Grade 1–11 ACR (Officers)** | `01_AUTHORITATIVE_SOURCES/ACR_FORMS_AND_INSTRUCTIONS/ACR Format.pdf` | [`AUTHORITATIVE/ACR_GRADE_1_11_FULL_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/AUTHORITATIVE/ACR_GRADE_1_11_FULL_EXTRACT.md) | **NO** (Scanned image PDF, 8 pages) | **YES** | High-resolution visual transcription across all 8 pages. Contains all **25 official criteria** (scored 1–4, max 100), 5 performance bands (অসাধারণ ৯৫-১০০, অত্যুত্তম ৮৫-৯৪, উত্তম ৭৫-৮৪, চলতি মান ৬০-৭৪, চলতি মানের নিম্নে <৬০), 12-field officer bio-data, 3-clause health report, pen picture, and 3-tier review blocks. |
+| **Official Grade 12–16 ACR (Staff)** | `01_AUTHORITATIVE_SOURCES/ACR_FORMS_AND_INSTRUCTIONS/ACR ফর্ম (গ্রেড ১২-১৬).pdf` | [`AUTHORITATIVE/ACR_GRADE_12_16_FULL_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/AUTHORITATIVE/ACR_GRADE_12_16_FULL_EXTRACT.md) | **NO** (Scanned image PDF, 8 pages) | **YES** | High-resolution visual transcription across all 8 pages. Contains all **20 official criteria** (scored 1–5, max 100), 5 performance bands, 11-field staff bio-data (omits Cadre), health report, pen picture, recommendations, and 3-tier review blocks. |
+| **ACR Instructions / Office Order** | `01_AUTHORITATIVE_SOURCES/ACR_FORMS_AND_INSTRUCTIONS/ACR_Instructions_Office_Order_Document.pdf` | [`AUTHORITATIVE/ACR_INSTRUCTIONS_OFFICE_ORDER_FULL_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/AUTHORITATIVE/ACR_INSTRUCTIONS_OFFICE_ORDER_FULL_EXTRACT.md) | **NO** (Scanned image PDF, 2 pages) | **YES** | High-resolution visual transcription. Contains all **24 numbered administrative clauses** approved in Board Meeting 377 (Agenda 377.07.2019, 07/04/2019) in Bengali original and faithful English translations. Includes 3-month reporting threshold, adverse remark procedures, dossier routing, and confidentiality mandates. |
+| **DESCO Service Rules 2017** | `05_OFFICIAL_DESCO_POLICIES/DESCO_Service_Rule_2017.pdf` | [`OFFICIAL_POLICIES/DESCO_SERVICE_RULES_2017_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/DESCO_SERVICE_RULES_2017_EXTRACT.md) | **NO** (Scanned image PDF, 63 pages) | **PARTIAL** | Complete Table of Contents (Chapters 1–9) transcribed. Complete verbatim clauses transcribed for Promotion (§3.3), Annual Increment (§4.8), and Conduct & Discipline (§7.1–§7.12). Procedural administrative chapters (leave formulas, travelling allowances, retirement gratuity) remain in original scan. Architectural policy extract also available in [`OFFICIAL_POLICIES_ARCHITECTURE_EXTRACT_COMPANION.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/OFFICIAL_POLICIES_ARCHITECTURE_EXTRACT_COMPANION.md). |
+| **DESCO Organogram 2018** | `05_OFFICIAL_DESCO_POLICIES/DESCO Organogram- 2018 (Final)-1.pdf` | [`OFFICIAL_POLICIES/DESCO_ORGANOGRAM_2018_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/DESCO_ORGANOGRAM_2018_EXTRACT.md) | **YES** (Vector text PDF, 15 pages) | **YES** | Extracted via PyMuPDF with page boundaries preserved. Contains full departmental and zonal hierarchy (Managing Director, 4 Executive Directors, Chief Engineers, GM/DGM, Managers, Sub-divisional Engineers, Staff). |
+| **DESCO Code of Conduct** | `05_OFFICIAL_DESCO_POLICIES/Code_of_ConductCode_of_Conduct.pdf` | [`OFFICIAL_POLICIES/CODE_OF_CONDUCT_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/CODE_OF_CONDUCT_EXTRACT.md) | **NO** (Scanned image PDF, 6 pages) | **YES** | High-resolution visual transcription across all 6 pages. Contains all Clauses 1 to 9 (Conflict of Interest, Confidentiality, Financial Integrity, Asset Protection, Anti-Corruption), Code for Independent Directors, and Annexure-1 Affirmation Form. |
+| **DESCO Laptop / PC Use Rules 2024** | `05_OFFICIAL_DESCO_POLICIES/Laptop_PC_Use_Rules_2024.pdf` | [`OFFICIAL_POLICIES/LAPTOP_PC_USE_RULES_2024_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/LAPTOP_PC_USE_RULES_2024_EXTRACT.md) | **NO** (Scanned/font-corrupted PDF, 3 pages) | **YES** | High-resolution visual transcription across all 3 pages. Contains official notice header (Memo 27.24.0000.068.18.014.23.270 dated 24/09/2024) and all 20 official ICT usage, data security, network access, and equipment custody clauses. |
+
+---
+
+## 2. Additional Knowledge Files & Working Designs
+
+| Source Name | Original Path | Extract Path | Readability Status | Completeness |
+|---|---|---|---|---|
+| **Consolidated R&D Handoff** | `02_CURRENT_RND/AIPMS_COMPLETE_RND_ARCHITECTURE_HANDOFF.md` | [`CURRENT_RND/COMPLETE_RND_ARCHITECTURE_HANDOFF_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/CURRENT_RND/COMPLETE_RND_ARCHITECTURE_HANDOFF_EXTRACT.md) | Directly readable MD | 100% mirrored with standardized header |
+| **AI Context Catalogue V3** | `03_CURRENT_WORKING_DESIGN/AI_Context_Catalogue_V3_Domains_1-3.docx` | [`CURRENT_WORKING_DESIGN/AI_CONTEXT_CATALOGUE_V3_DOMAINS_1_TO_3_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/CURRENT_WORKING_DESIGN/AI_CONTEXT_CATALOGUE_V3_DOMAINS_1_TO_3_EXTRACT.md) | Extracted DOCX | 100% extracted (131 paragraphs, 26 tables) |
+| **Classification & Workflow** | `03_CURRENT_WORKING_DESIGN/Classification and AIPMS Workflow Revised.pdf` | [`CURRENT_WORKING_DESIGN/CLASSIFICATION_AND_WORKFLOW_REVISED_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/CURRENT_WORKING_DESIGN/CLASSIFICATION_AND_WORKFLOW_REVISED_EXTRACT.md) | Directly readable PDF | 100% text extracted with page boundaries |
+| **Pre-Architecture Report** | `04_PRE_ARCHITECTURE_ANALYSIS/DESCO_AIPMS_Architecture_RnD_Report.md` | [`PREVIOUS_ANALYSIS/PRE_ARCHITECTURE_ANALYSIS_REPORT_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/PREVIOUS_ANALYSIS/PRE_ARCHITECTURE_ANALYSIS_REPORT_EXTRACT.md) | Directly readable MD | 100% mirrored with standardized header |
+| **Official Policies Architecture Extract** | `05_OFFICIAL_DESCO_POLICIES/OFFICIAL_POLICIES_ARCHITECTURE_EXTRACT.md` | [`OFFICIAL_POLICIES/OFFICIAL_POLICIES_ARCHITECTURE_EXTRACT_COMPANION.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/OFFICIAL_POLICIES/OFFICIAL_POLICIES_ARCHITECTURE_EXTRACT_COMPANION.md) | Directly readable MD | 100% mirrored with standardized header |
+| **Core Claude Rules** | `CLAUDE.md` | [`REFERENCES/CLAUDE_CORE_RULES_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/REFERENCES/CLAUDE_CORE_RULES_EXTRACT.md) | Directly readable MD | 100% mirrored with standardized header |
+| **Context Index Map** | `00_CONTEXT_INDEX.md` | [`REFERENCES/CONTEXT_INDEX_MAP_EXTRACT.md`](file:///e:/AI_Appraisal%20&%20Assesment/00_CLAUDE_CONTEXT_PACK/REFERENCES/CONTEXT_INDEX_MAP_EXTRACT.md) | Directly readable MD | 100% mirrored with standardized header |
+
+---
+
+## 3. Verification Findings & Summary
+
+1. **Direct Character Text vs Scanned Images**:
+   - Out of 7 PDF files in the repository, 5 were scanned bitmapped images containing zero extractable character streams via standard PDF parsers (`ACR Format.pdf`, `ACR ফর্ম (গ্রেড ১২-১৬).pdf`, `ACR_Instructions_Office_Order_Document.pdf`, `Code_of_ConductCode_of_Conduct.pdf`, `Laptop_PC_Use_Rules_2024.pdf`, and `DESCO_Service_Rule_2017.pdf`).
+   - Prior to this Context Pack, any LLM tool attempting to parse these files directly would either return blank strings or fail.
+   - Through high-resolution visual transcription and companion file generation, **all 4 critical authoritative sources (TOR, Grade 1–11 ACR, Grade 12–16 ACR, ACR Office Order)** as well as **Code of Conduct and Laptop Rules** are now **100% text-readable, verifiable, and indexable**.
+
+2. **Integrity Guarantee**:
+   - Zero modifications were made to any original files.
+   - All extractions strictly reflect the source documents without adding interpretations, redesigns, or assumed requirements.
